@@ -13,7 +13,7 @@ body {
     width: 320px;
     height: 497px;
     align-items: center;
-    transform: translateY(40%);
+    transform: translateY(30%);
 }
 
 .card-image {
@@ -29,11 +29,13 @@ body {
     margin: 16px;
     font-family: 'Outfit', serif;
     text-align: center;
+    color: #1F314F;
 }
 .card-text {
     font-size: 15px;
     font-weight: 400;
     margin: 0px 32px 32px 32px;
     font-family: 'Outfit', serif;
-    text-align: center;;
+    text-align: center;
+    color: #7D889E;
 }
