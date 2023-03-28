@@ -19,7 +19,7 @@ body {
 .card-image {
     width: 288px;
     height: 288px;
-    margin: 16px;
+    margin: 16px 16px 8px 16px;
     border-radius: 10px;
 }
 
